@@ -1,7 +1,7 @@
 let wordData;
 wordData = "Word list";
 
-console.log(wordData);
+//console.log(wordData);
 
 let subTotal = 100;
 let tax = subTotal * 0.07;
@@ -15,14 +15,14 @@ let obj = {
 	}
 }
 
-console.log(obj.obj2.obj2Key1);
+//console.log(obj.obj2.obj2Key1);
 
 let var1 = "2";
 let var2 = 5;
 let result1 = var1 + var2;
 let result2 = var2 + var1;
-console.log(result1);
-console.log(result2);
+//console.log(result1);
+//console.log(result2);
 
 let add = 1 + 2;
 let sub = 2 - 1;
@@ -31,4 +31,4 @@ let divi = 4 / 2;
 let mod = 5 % 2;
 console.log(mod);
 let string = "String 1 " + "String 2";
-console.log(string);
+//console.log(string);
